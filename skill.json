@@ -1,0 +1,32 @@
+{
+  "name": "genpark-meta-muse-multimodal-episodic-resonance-mcp",
+  "version": "1.0.0",
+  "description": "Multimodal sensory grounding (Meta Ray-Ban audio/vision) integrated with long-term episodic life memory graphs and empathetic emotional resonance (Muse).",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "personal-agent",
+    "meta-ai",
+    "muse-memory",
+    "episodic-graph",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "record_episodic_moment",
+      "description": "Store episodic memory with sensory modality and emotional valence."
+    },
+    {
+      "name": "associative_memory_recall",
+      "description": "Perform associative query across personal memory graph."
+    },
+    {
+      "name": "synthesize_empathetic_resonance",
+      "description": "Formulate emotionally attuned response grounded in user history."
+    },
+    {
+      "name": "run_meta_muse_benchmark",
+      "description": "Run Meta + Muse episodic resonance benchmark."
+    }
+  ]
+}
